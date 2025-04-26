@@ -1,0 +1,17 @@
+C:\Users\TO GOD BE THE GLORY\source\repos\Payroll Accounting System\Payroll Accounting System\bin\Debug\net8.0-windows\Payroll Accounting System.exe
+C:\Users\TO GOD BE THE GLORY\source\repos\Payroll Accounting System\Payroll Accounting System\bin\Debug\net8.0-windows\Payroll Accounting System.deps.json
+C:\Users\TO GOD BE THE GLORY\source\repos\Payroll Accounting System\Payroll Accounting System\bin\Debug\net8.0-windows\Payroll Accounting System.runtimeconfig.json
+C:\Users\TO GOD BE THE GLORY\source\repos\Payroll Accounting System\Payroll Accounting System\bin\Debug\net8.0-windows\Payroll Accounting System.dll
+C:\Users\TO GOD BE THE GLORY\source\repos\Payroll Accounting System\Payroll Accounting System\bin\Debug\net8.0-windows\Payroll Accounting System.pdb
+C:\Users\TO GOD BE THE GLORY\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\net8.0-windows\Payroll_Accounting_System.Form1.resources
+C:\Users\TO GOD BE THE GLORY\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\net8.0-windows\Payroll_Accounting_System.Resources.resources
+C:\Users\TO GOD BE THE GLORY\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\net8.0-windows\Payroll Accounting System.vbproj.GenerateResource.cache
+C:\Users\TO GOD BE THE GLORY\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\net8.0-windows\Payroll Accounting System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TO GOD BE THE GLORY\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\net8.0-windows\Payroll Accounting System.AssemblyInfoInputs.cache
+C:\Users\TO GOD BE THE GLORY\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\net8.0-windows\Payroll Accounting System.AssemblyInfo.vb
+C:\Users\TO GOD BE THE GLORY\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\net8.0-windows\Payroll Accounting System.vbproj.CoreCompileInputs.cache
+C:\Users\TO GOD BE THE GLORY\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\net8.0-windows\Payroll Accounting System.dll
+C:\Users\TO GOD BE THE GLORY\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\net8.0-windows\refint\Payroll Accounting System.dll
+C:\Users\TO GOD BE THE GLORY\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\net8.0-windows\Payroll Accounting System.pdb
+C:\Users\TO GOD BE THE GLORY\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\net8.0-windows\Payroll Accounting System.genruntimeconfig.cache
+C:\Users\TO GOD BE THE GLORY\source\repos\Payroll Accounting System\Payroll Accounting System\obj\Debug\net8.0-windows\ref\Payroll Accounting System.dll
